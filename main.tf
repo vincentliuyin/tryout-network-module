@@ -3,7 +3,7 @@ module "network_vpc_1" {
   version = "1.0.3"
 
   project  = "vincentliu-sandbox"
-  region   = "europenorth-1"
+  region   = "europe-north1"
   vpc_name = "test-vpc1"
 }
 
@@ -12,7 +12,7 @@ module "network_vpc_2" {
   version = "1.0.3"
 
   project  = "vincentliu-sandbox"
-  region   = "europenorth-1"
+  region   = "europe-north1"
   vpc_name = "test-vpc2"
 }
 
